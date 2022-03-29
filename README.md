@@ -1,8 +1,5 @@
 # GameProject1
 
-コンテスト提出用リポジトリ
+Game Maker Studio2でのグラフィックを確認したりする用のプロジェクト
 
-## Team Member
-- Kawa054
-- test
-- test
+## 使い方
